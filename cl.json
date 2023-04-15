@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "barrestaurante-eltri-ngul-xpxa",
+  "private_key_id": "1a18d6c9197d83f059efd94fe6be14c7297d0b13",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOIGBNtTGxmgPx\nQ4KZpgmIZSRPCJJueEVJ4/Q+ntw4D+CguwkM6UwJctxgwCocBb5gphv5VAdNvejt\nHiZ2ieNNbzZEtCG2p8DaI9phX0S0WgfdUnJIei+xaSg5JarMCaWpmtKqn9UGWxGm\nHSu/8e0+dD4m4G+bTLcBn8JuuqQzaslFc7CMWaMehgeU2zBdY7fJHuEZzxkAVEm8\nXTRU3ECgP5pSGB/LpriIrv3q1Abxfdh0msFBYpqEI4Cd8gKCLYH9p3p36PFXEnQT\nvaHdPYy+bReLTrnMI6FTvh0He4dPpDwUdYwTdreWgxMlRCRjuRBrJh8UNh5Gp5tz\nbZsEMZbTAgMBAAECggEAFZ9aV2gqG8V9NQ7axypqB9yvVfDNak4U6IVsKry7bzIH\nMBzUZyj1HvjhCz0hCutax9RtrBR7Gfo6/hwYqO8YbDbvsCshd+r0nZtXxXmbd768\ntJCu/1TLfbesXWlcHzeWgwOhakDvxUxElpuYhNa3C8nejMaXZC6bJv2ZtIPjqEis\nIvDo8yyepbFEW2FZcR9v09f0uiEk8fy1vUg03CleIsTXKPiVfCNFBLtlC5TxhEqK\nVyfgBVXJqNusOP/Z1Gyy7IGfHmJ5w8PifkPhbNCSnAVST6W1lu9SOKX+YUxmQF+0\nP8Vd4tSRQPWIPmGbijIblqzEK7aXwb6t2FGiFAXBNQKBgQDIbaUY0nN0KjzvrCMC\nTK9Gpdtj3NEHuulQp+7uf7HPskm/ivJFGTHtrJ5+swNQRuCfkoGfPLDYQBGln2YN\nz3+WhvZoGHMbnjGS1hfXgjRJwiRw10kGVg2kSeQeIGl56f8tWz5CUhnRzBOBbBcq\n+IKoBsk0/13H+ebiwHm/MIcIPQKBgQC1iHsIpVtVZUljLHjx9YRxQkkVr4+YfTUP\nmP76RbjvEintRPCd5ChtwmQTxAFQsHDqUr62EnYj0TAcu46KZ/mdopvfjC9dKxsh\nqEuJC1oAQHeuPWZZ7R71RbjL1sJdyyr0D1RWD9D5ujBF+CLsnJVMS6dde0jWDbu8\n8su+NLL8TwKBgCDsCbtrDjXdnkbMIrAFAqF7Ku9bXSaE6EAsZY3dgcqZAY4p96Os\nAMyGlz4+j2PHUKxFd289m9rZo0xuQ2gvVkjWgHEW2wmFUaVJ736hz47yCeRTKJaW\n2gTLcmIUdt7ktdqwayifrcgNWoLey2tuiJ+rBa/j5narsOY8MYNbKEMNAoGAMKxb\ncMIFbywtNS4jb5zI2iVPu0TLV7OamogHNcuj/lX8b+XgLjWSsXtBohsXzy6/19Q/\n1km0632XTNztJychwqZq7NGFkZGRQMEDH8evZgnjDRDhdJMjjdgX6G+4xbVH2xCR\nKFItUggeEWSq2I5TaZWPVn1L1jjwcYUYI/O1WfkCgYEAotL69+3UCbDVtY5f7rWB\nLwq9wBUBCbDOAog3bnPVN7l8t85IzLoOq6c/6qlTHcrTF/lO4dteYTKQBgxhXc/y\nuM8zLMFQYSk4eetmHp9ctP8z26R8h54INsBD8vQFYfsOO1IU7N3sx4+gsx48fI3T\nEprJjaDkw0CtI6vuK12iJrM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "barrestaurante-eltri-ngul-xpxa@appspot.gserviceaccount.com",
+  "client_id": "100520993659919755887",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/barrestaurante-eltri-ngul-xpxa%40appspot.gserviceaccount.com"
+}
